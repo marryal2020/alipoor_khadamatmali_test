@@ -1,0 +1,14 @@
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\bin\Debug\netcoreapp2.2\alipoor-test.deps.json
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\bin\Debug\netcoreapp2.2\alipoor-test.runtimeconfig.json
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\bin\Debug\netcoreapp2.2\alipoor-test.runtimeconfig.dev.json
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\bin\Debug\netcoreapp2.2\alipoor-test.dll
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\bin\Debug\netcoreapp2.2\alipoor-test.pdb
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\obj\Debug\netcoreapp2.2\alipoor-test.csprojAssemblyReference.cache
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\obj\Debug\netcoreapp2.2\alipoor-test.csproj.CoreCompileInputs.cache
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\obj\Debug\netcoreapp2.2\alipoor-test.RazorAssemblyInfo.cache
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\obj\Debug\netcoreapp2.2\alipoor-test.RazorAssemblyInfo.cs
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\obj\Debug\netcoreapp2.2\alipoor-test.AssemblyInfoInputs.cache
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\obj\Debug\netcoreapp2.2\alipoor-test.AssemblyInfo.cs
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\obj\Debug\netcoreapp2.2\alipoor-test.RazorTargetAssemblyInfo.cache
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\obj\Debug\netcoreapp2.2\alipoor-test.dll
+C:\Users\Maryam\source\repos\alipoor-test\alipoor-test\obj\Debug\netcoreapp2.2\alipoor-test.pdb
