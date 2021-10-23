@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Maryam\\Desktop\\Repo\\alipoor_khadamatmali_test\\alipoor-test.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Maryam\\Desktop\\Repo\\alipoor_khadamatmali_test\\alipoor-test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Maryam\\Desktop\\Repo\\alipoor_khadamatmali_test\\alipoor-test.csproj",
+        "projectName": "alipoor-test",
+        "projectPath": "c:\\Users\\Maryam\\Desktop\\Repo\\alipoor_khadamatmali_test\\alipoor-test.csproj",
+        "packagesPath": "C:\\Users\\Maryam\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Maryam\\Desktop\\Repo\\alipoor_khadamatmali_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Maryam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
